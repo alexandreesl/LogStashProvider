@@ -3,4 +3,13 @@
   <groupId>com.technology.alexandreesl</groupId>
   <artifactId>LogStashProvider</artifactId>
   <version>1.0.0</version>
+  
+  <dependencies>
+  <dependency>
+	<groupId>log4j</groupId>
+	<artifactId>log4j</artifactId>
+	<version>1.2.17</version>
+</dependency>
+  </dependencies>
+  
 </project>
