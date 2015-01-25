@@ -1,2 +1,3 @@
-# LogStashProvider
-LogStashProvider
+# Instructions:
+
+To run this 
